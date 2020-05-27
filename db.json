@@ -1,0 +1,310 @@
+{
+  "peticiones": [
+    {
+      "id": 1,
+      "nombre_peticion": "Petición financeiro",
+      "titular": "Financeiro da Silva",
+      "division": "Financeiro",
+      "fecha_solicitud": "12-15-2019",
+      "fecha_max": "12-18-2019",
+      "peticion": "Robotización interna",
+      "estado": 4,
+      "resolutor": "julio.gonzalez@vass.es",
+      "resolutor_nombre": "Julio",
+      "resolutor_apellidos": "González",
+      "periodicidad": 2,
+      "franja_horaria": 2,
+      "tiempo_liberado": 5,
+      "app_implicadas": "Oficina 2000",
+      "impacto": true,
+      "cer": false,
+      "descr": "Petición a CER",
+      "historial": [
+        {
+          "estado": "Enviada",
+          "fecha": "12-15-2019",
+          "titular": "Julio"
+        },
+        {
+          "estado": "Rectificada",
+          "fecha": "12-16-2019",
+          "titular": "Julio"
+        },
+        {
+          "estado": "Aceptada",
+          "fecha": "12-18-2019",
+          "titular": "Julio"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre_peticion": "Petición facilities",
+      "titular": "Facilities Fernandes",
+      "division": "Facilities",
+      "fecha_solicitud": "12-15-2019",
+      "fecha_max": "12-16-2019",
+      "peticion": "CER",
+      "estado": 3,
+      "resolutor": "julio.gonzalez@vass.es",
+      "resolutor_nombre": "Julio",
+      "resolutor_apellidos": "González",
+      "periodicidad": 1,
+      "franja_horaria": 3,
+      "tiempo_liberado": 10,
+      "app_implicadas": "Access",
+      "impacto": true,
+      "cer": true,
+      "descr": "ñlkjsdfñalskdjfañlsdjf",
+      "historial": [
+        {
+          "estado": "Enviada",
+          "fecha": "12-15-2019",
+          "titular": "Julio"
+        },
+        {
+          "estado": "Rectificada",
+          "fecha": "12-16-2019",
+          "titular": "Julio"
+        },
+        {
+          "estado": "Aceptada",
+          "fecha": "12-18-2019",
+          "titular": "Julio",
+          "comentario": {
+            "cer_comenta": "qwerty"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre_peticion": "Petición CAU",
+      "titular": "CAU Hernandez",
+      "division": "CAU",
+      "fecha_solicitud": "12-15-2019",
+      "fecha_max": "12-18-2019",
+      "peticion": "Robotización interna",
+      "estado": 4,
+      "resolutor": "julio.gonzalez@vass.es",
+      "resolutor_nombre": "Julio",
+      "resolutor_apellidos": "González",
+      "periodicidad": 1,
+      "franja_horaria": 2,
+      "tiempo_liberado": 15,
+      "app_implicadas": "Firefox",
+      "impacto": false,
+      "cer": false,
+      "descr": "asdfadfsd",
+      "historial": [
+        {
+          "estado": "Enviada",
+          "fecha": "12-15-2019",
+          "titular": "Julio"
+        },
+        {
+          "estado": "Rectificada",
+          "fecha": "12-16-2019",
+          "titular": "Julio"
+        },
+        {
+          "estado": "Aceptada",
+          "fecha": "12-18-2019",
+          "titular": "Julio",
+          "comentario": {
+            "cer_comenta": "qwer"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre_peticion": "Petición RH",
+      "titular": "RH Navas",
+      "division": "RH",
+      "fecha_solicitud": "02-25-2020",
+      "fecha_max": "04-08-2020",
+      "peticion": "CER",
+      "estado": 2,
+      "resolutor": "david.perez@vass.es",
+      "resolutor_nombre": "David",
+      "resolutor_apellidos": "Pérez",
+      "periodicidad": 1,
+      "franja_horaria": 3,
+      "tiempo_liberado": 10,
+      "app_implicadas": "Oficina 2000",
+      "impacto": false,
+      "cer": true,
+      "descr": "Petición a CER",
+      "historial": [
+        {
+          "estado": "Enviada",
+          "fecha": "12-15-2019",
+          "titular": "Julio"
+        },
+        {
+          "estado": "Rectificada",
+          "fecha": "12-16-2019",
+          "titular": "Julio"
+        },
+        {
+          "estado": "Aceptada",
+          "fecha": "12-18-2019",
+          "titular": "Julio"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre_peticion": "Petición Seguros",
+      "titular": "Seguro de Jesus",
+      "division": "Seguros",
+      "fecha_solicitud": "11-11-2019",
+      "fecha_max": "11-11-2019",
+      "peticion": "Robotización interna",
+      "estado": 2,
+      "resolutor": "julio.gonzalez@vass.es",
+      "resolutor_nombre": "Julio",
+      "resolutor_apellidos": "González",
+      "periodicidad": 1,
+      "franja_horaria": 3,
+      "tiempo_liberado": 25,
+      "app_implicadas": "Otras",
+      "impacto": true,
+      "cer": false,
+      "descr": "lskeurosiejfaosldij",
+      "historial": [
+        {
+          "estado": "Enviada",
+          "fecha": "12-15-2019",
+          "titular": "Julio"
+        },
+        {
+          "estado": "Rectificada",
+          "fecha": "12-16-2019",
+          "titular": "Julio"
+        },
+        {
+          "estado": "Aceptada",
+          "fecha": "12-18-2019",
+          "titular": "Julio"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre_peticion": "Petición financiación",
+      "titular": "Financiación Blanco",
+      "division": "Financiación",
+      "fecha_solicitud": "10-22-2019",
+      "fecha_max": "10-22-2019",
+      "peticion": "CER",
+      "estado": -1,
+      "resolutor": "-",
+      "resolutor_nombre": "-",
+      "resolutor_apellidos": "-",
+      "periodicidad": 1,
+      "franja_horaria": 3,
+      "tiempo_liberado": 8,
+      "app_implicadas": "bla",
+      "impacto": false,
+      "cer": true,
+      "descr": "Petición a CER",
+      "historial": [
+        {
+          "estado": "Enviada",
+          "fecha": "12-15-2019",
+          "titular": "Julio"
+        },
+        {
+          "estado": "Rectificada",
+          "fecha": "12-16-2019",
+          "titular": "Julio"
+        },
+        {
+          "estado": "Aceptada",
+          "fecha": "12-18-2019",
+          "titular": "Julio",
+          "comentario": {
+            "cer_comenta": "rechazado"
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre_peticion": "Petición General",
+      "titular": "General Garcia",
+      "division": "General",
+      "fecha_solicitud": "10-31-2019",
+      "fecha_max": "10-31-2019",
+      "peticion": "Robotización interna",
+      "estado": 4,
+      "resolutor": "julio.gonzalez@vass.es",
+      "resolutor_nombre": "Julio",
+      "resolutor_apellidos": "González",
+      "periodicidad": 1,
+      "franja_horaria": 3,
+      "tiempo_liberado": 10,
+      "app_implicadas": "varios",
+      "impacto": true,
+      "cer": false,
+      "descr": "Petición variada",
+      "historial": [
+        {
+          "estado": "Enviada",
+          "fecha": "12-15-2019",
+          "titular": "Pepe"
+        },
+        {
+          "estado": "Rechazada",
+          "fecha": "12-16-2019",
+          "titular": "Pepe"
+        },
+        {
+          "estado": "Rectificada",
+          "fecha": "12-19-2019",
+          "titular": "Pepe",
+          "comentario": {
+            "cer_comenta": "asdasd"
+          }
+        }
+      ]
+    },
+    {
+      "peticion": "Robotización interna",
+      "id": 8,
+      "nombre_peticion": "Petición financeiro",
+      "division": "Financeiro",
+      "titular": "Financeiro",
+      "estado": 1,
+      "resolutor": "julio.gonzalez@vass.es",
+      "resolutor_nombre": "Julio ",
+      "resolutor_apellidos": "Gonzales",
+      "fecha_solicitud": "2020-05-21",
+      "fecha_max": "2020-05-21",
+      "periodicidad": "anual",
+      "franja_horaria": "noche",
+      "tiempo_liberado": 360,
+      "app_implicadas": [
+        "Oficina 2000",
+        "SQL",
+        "Word"
+      ],
+      "impacto": true,
+      "cer": true,
+      "descr": "dadsa",
+      "historial": [
+        {
+          "estado": "Enviada",
+          "fecha": "2020-05-21T19:51:56.580Z",
+          "titular": "Financeiro",
+          "comentario": {
+            "cer_comenta": ""
+          }
+        }
+      ],
+      "file_upload_petition": "C:\\fakepath\\chart.png"
+    }
+  ]
+}
